@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Rishi",
+    "commits": 3,
+    "bugs": 12,
+    "prs_open": 6,
+    "code_reviews": 1
+  },
+  {
+    "id": 2,
+    "name": "Dimple",
+    "commits": 15,
+    "bugs": 3,
+    "prs_open": 2,
+    "code_reviews": 5
+  },
+  {
+    "id": 3,
+    "name": "Celina",
+    "commits": 7,
+    "bugs": 8,
+    "prs_open": 4,
+    "code_reviews": 2
+  }
+]
